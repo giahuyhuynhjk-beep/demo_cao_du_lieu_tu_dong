@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+Pillow
+xgboost
+scikit-learn
+requests
+gspread
+google-auth
+openpyxl
+matplotlib
+seaborn
+scipy
